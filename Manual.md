@@ -29,3 +29,6 @@
 
 ## PING entre PC1 (VLAN 20) Y PC2 (VLAN 10)
 ![TEST](https://github.com/bcfiusac/Redes1-Pratica4_201313734/blob/master/Practica%204/pingPC1-PC2.PNG)
+
+## CAPTURA DE PAQUETES CON WIRESHARK
+![trest](https://github.com/bcfiusac/Redes1-Pratica4_201313734/blob/master/Practica%204/wireshark.PNG)
